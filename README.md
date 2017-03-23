@@ -1,0 +1,1 @@
+Experimental js object diffing tool with the aim of shooting for faster than factorial time complexity.
