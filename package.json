@@ -4,9 +4,13 @@
   "description": "Experimental object diffing with hopefully greater than factorial performance",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsverify": "^0.8.1",
+    "mocha": "^3.2.0"
+  }
 }
